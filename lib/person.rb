@@ -11,4 +11,4 @@ class Person
   def job
     puts "#{@person_job}"
   end
-  
+end
